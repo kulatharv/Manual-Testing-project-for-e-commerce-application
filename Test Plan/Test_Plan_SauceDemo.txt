@@ -1,0 +1,47 @@
+1. Introduction
+    - The purpose of this test plan is to define the testing strategy, scope, resources, and schedule for testing the SauceDemo application.
+
+2. Scope
+
+    - In-Scope
+        - Login functionality
+        - Product listing
+        - Cart operations
+        - Checkout process
+        - Logout
+
+    - Out-of-Scope
+        - Performance testing
+        - Security testing
+        - Payment gateway testing
+
+3. Test Strategy
+
+    - Testing Type: Manual Testing
+    - Testing Method: Black Box Testing
+    - Test Design Techniques:
+    - Equivalence Partitioning
+    - Boundary Value Analysis
+
+4. Test Environment
+
+    - OS: Windows 10
+    - Browser: Chrome
+    - Internet: Stable connection
+
+5. Entry Criteria
+
+    - Application accessible
+    - Test data available
+
+6. Exit Criteria
+
+    - All critical test cases executed
+    - Major defects logged
+
+7. Test Deliverables
+
+    - Test cases
+    - Bug reports
+    - Test execution report
+    - Test summary report
